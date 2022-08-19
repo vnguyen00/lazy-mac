@@ -14,6 +14,7 @@ fi
 
 # Update Homebrew recipes
 brew update
+#blah blah blah
 
 # Homebrew packages
 PACKAGES=(
