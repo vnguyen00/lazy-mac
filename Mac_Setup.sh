@@ -16,6 +16,8 @@ fi
 brew update
 #blah blah blah
 
+#whatever goes here
+
 # Homebrew packages
 PACKAGES=(
     git
