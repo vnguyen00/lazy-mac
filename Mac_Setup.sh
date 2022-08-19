@@ -27,6 +27,8 @@ echo "Installing packages..."
 brew install ${PACKAGES[@]}
 # any additional steps you want to add here
 
+
+#another comment here
 echo "Cleaning up..."
 brew cleanup
 
